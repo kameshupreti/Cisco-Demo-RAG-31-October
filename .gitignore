@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+chroma_db/
+.gradio/
+*.pem
+*.key
+credentials.json
+cisco-nexus-9000-series-nx-os-troubleshooting-guide-106x.pdf
